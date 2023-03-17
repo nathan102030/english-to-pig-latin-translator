@@ -1,9 +1,4 @@
-"""
-Problem 1 (30 pts) - Piggify
 
-Run the program by clicking "Shell" on right and typing:
-"python problem1.py"
-"""
 
 
 # part a
